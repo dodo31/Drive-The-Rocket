@@ -1,4 +1,4 @@
-# Drive-The-Rocket
+# Drive The Rocket
 A 2D game developped for a Unity workshop. The aim is to drive a Falcon 9 rocket along a trajectory.
 
 ## How to play ?
